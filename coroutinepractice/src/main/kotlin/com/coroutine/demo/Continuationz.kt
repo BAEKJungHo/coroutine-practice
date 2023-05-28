@@ -54,6 +54,9 @@ fun function(
     error("정상적인 종료가 아님")
 }
 
+/**
+ * Continuation 의 경우 실제 Function 에서 Thread Stack 영역에 물고 있어야 하는 정보를 저장하고 있음
+ */
 class SharedDataContinuation(
     private val completion: Continuation<Any>,
 ): Continuation<Unit> {
