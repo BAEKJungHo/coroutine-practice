@@ -2,4 +2,4 @@
 
 ## References
 
-- [https://github.com/tmdgusya/kotlin-coroutine-series]
+- https://github.com/tmdgusya/kotlin-coroutine-series
