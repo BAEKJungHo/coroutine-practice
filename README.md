@@ -1,2 +1,5 @@
-# coroutine-practice
-Coroutine Practice
+# Coroutine Practice
+
+## References
+
+- [https://github.com/tmdgusya/kotlin-coroutine-series]
