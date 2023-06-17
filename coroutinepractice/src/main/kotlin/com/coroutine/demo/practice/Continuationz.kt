@@ -1,4 +1,4 @@
-package com.coroutine.demo
+package com.coroutine.demo.practice
 
 import kotlin.coroutines.Continuation
 import kotlinx.coroutines.Dispatchers
